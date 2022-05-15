@@ -2,6 +2,7 @@
 .gradle
 .allure
 build
-video
-out
-allure-results
+gradle
+settings.gradle
+gradlew
+build.gradle
